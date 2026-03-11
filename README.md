@@ -67,7 +67,7 @@ $$\bar{g} = \frac{\sum w_i \times g_i}{\sum w_i}, \quad w_i = \frac{1}{\sigma_i^
 
 ## Data
 
-`table3_evaluation_data.csv` contains the full evaluation data for all 13 FAC systems reviewed in the paper (Table III), including:
+`evaluation_data.md` contains the full evaluation data for all 13 FAC systems reviewed in the paper, including:
 - Accentedness and Naturalness MOS scores (mean ± SD) for converted and L2 speech
 - Word Error Rate (WER) and Speaker Encoder Cosine Similarity (SECS)
 - Rater count, sample size, and rater nationality
