@@ -1,0 +1,14 @@
+Ref,System,Category,Year,WER,SECS,Scale,Accent_Conv_mean,Accent_Conv_sd,Accent_L2_mean,Accent_L2_sd,Naturalness_Conv_mean,Naturalness_Conv_sd,Naturalness_L2_mean,Naturalness_L2_sd,Raters,Sample_Size,Rater_Country
+[3],FAC-NoRef,S2S,2021,,, 9pt (1=native 9=heavy↓),5.33,0.28,6.77,0.20,3.22,0.10,3.70,0.06,20,800,US
+[4],Accentron,S2S,2022,,,9pt (1=native 9=heavy↓),3.30,0.26,7.11,0.21,3.43,0.12,3.67,0.28,18,360,US
+[5],ZS-NoRef,S2S,2022,,,9pt (1=native 9=heavy↓),2.23*,,6.78*,,3.03*,,4.44*,,20,800,US
+[6],AC-Articulatory,S2S,2024,17.8,,9pt† (1=heavy 9=native↑),7.32,0.51,2.07,0.37,2.45,0.33,3.36,0.43,20,300,US
+[2],TTS-Guided-NoPar,TTS,2023,15.8,,9pt (1=native 9=heavy↓),2.87*,,7.98*,,,,,25,250,US
+[1],TTS-Transfer,TTS,2024,17.7,,,,,,,3.71,0.08,4.43,0.08,20,400,
+[11],Diffusion-TTS,TTS,2024,,,BW,0.16,,,,50.0M,,51.2M,,13,390,
+[8],Streaming-NAR,TTS,2025,14.1,0.85,5pt‡ (1=heavy 5=native↑),3.78,0.18,1.12,0.15,,,,,10,,
+[9],KD-AC,TTS,2025,12.4,0.83,5pt‡ (1=heavy 5=native↑),3.87,0.08,1.67,0.05,,,,,10,,
+[7],AC-DiscreteUnits,Token,2024,,,5pt‡ (1=heavy 5=native↑),4.42,0.11,2.12,0.05,,,,,20,1000,US
+[12],SpeechAccentLLM,Token,2025,9.1,0.63,10pt (1=native 10=heavy↓),1.86,,,,4.07,0.10,,,20,2000,US
+[10],TokAN,Token,2025,16.2,0.87,MUSHRA,26.1,1.8,46.4,2.5,60.4M,,60.5M,,21,420,
+[13],FAC-FACodec,Token,2025,11.0,0.86,,,,,,,,,,,,
