@@ -14,7 +14,7 @@ This repository contains the Python code and evaluation data used to conduct a s
 
 Three perceptual scales are analyzed:
 - **9-Point Accentedness** (1=native, 9=heavy accent) — 5 studies, Seq2Seq & TTS-guided methods
-- **5-Point Accentedness** (1=heavy, 5=native) — 3 studies, Token-based methods
+- **5-Point Accentedness** (1=heavy, 5=native) — 3 studies, TTS-guided, Token-based methods
 - **5-Point Naturalness** (1=unnatural, 5=natural) — 5 studies
 
 ---
