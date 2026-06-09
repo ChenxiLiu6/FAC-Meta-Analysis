@@ -4,7 +4,7 @@ Code and data for the meta-analysis section of:
 
 > **Foreign Accent Conversion: Methods, Models, and Research Challenges**  
 > Chenxi Liu and Israel Cohen, Fellow, IEEE  
-> *IEEE Signal Processing Magazine*, 2025 (Draft)
+> *IEEE Signal Processing Magazine*, 2026
 
 ---
 
